@@ -4,7 +4,7 @@ Real-time crypto portfolio and watchlist over WebSockets. Top 200 pairs quoted i
 
 ## Demo
 
-demo.mp4
+https://github.com/user-attachments/assets/215e2e20-e476-4fe7-8060-1fefc3469651
 
 ## Local run
 
